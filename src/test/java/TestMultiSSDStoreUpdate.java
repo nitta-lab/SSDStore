@@ -5,13 +5,13 @@ import java.util.Map;
 
 import org.junit.jupiter.api.Test;
 
-public class TestSSDStoreUpdate {
+public class TestMultiSSDStoreUpdate {
 
 	@Test
 	public void test() {
 		SSDStore store = new SSDStore();
 		store.addProductToSiteA(500, 7000);
-		store.addProductToSiteA(1500, 12000);
+		store.addProductToSiteB(1500, 12000);
 		
 		store.setPrice(7000);
 		List<Map<String, Object>> itemsByPrice = store.getItemsByPrice();
@@ -39,7 +39,7 @@ public class TestSSDStoreUpdate {
 			assertTrue((Integer) item.get("capacity") >= 1500);
 		}
 				
-		store.addProductToSiteA(1000, 10000);
+		store.addProductToSiteB(1000, 10000);
 		
 		store.setPrice(7000);
 		itemsByPrice = store.getItemsByPrice();
