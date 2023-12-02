@@ -1,17 +1,19 @@
-import java.util.*;
+import java.util.List;
+import java.util.Map;
+import java.util.Objects;
 
 public class SSDStore {
 	private Capacity capacity;
-	private SiteA siteA;
+	private SiteWrapper siteWrapper;
 	private ItemsByCapacity itemsByCapacity;
 	private Price price;
 	private ItemsByPrice itemsByPrice;
 	public SSDStore() {
 		this.capacity = new Capacity();
-		this.siteA = new SiteA();
-		this.itemsByCapacity = new ItemsByCapacity(capacity, siteA);
+		this.siteWrapper = new SiteWrapper(new SiteA());
+		this.itemsByCapacity = new ItemsByCapacity(capacity, siteWrapper);
 		this.price = new Price();
-		this.itemsByPrice = new ItemsByPrice(price, siteA);
+		this.itemsByPrice = new ItemsByPrice(price, siteWrapper);
 	}
 	public int getCapacity() {
 		return capacity.getValue();
@@ -19,11 +21,14 @@ public class SSDStore {
 	public void setCapacity(int cur_capacity) {
 		this.capacity.setCapacity(cur_capacity);
 	}
-	public List<Map<String, Object>> getSiteA() {
-		return siteA.getValue();
+	public List<Map<String, Object>> getSiteWrapper() {
+		if(Objects.isNull(siteWrapper)) {
+			return null;
+		}
+		return siteWrapper.getSiteValue();
 	}
 	public void addProductToSiteA(int capacity, int price) {
-		this.siteA.addProductToSiteA(capacity, price);
+		this.siteWrapper.addProductToSiteA(capacity, price);
 	}
 	public List<Map<String, Object>> getItemsByCapacity() {
 		return itemsByCapacity.getValue();
