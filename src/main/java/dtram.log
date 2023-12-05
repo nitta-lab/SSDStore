@@ -1,0 +1,28 @@
+Dec 05, 2023 10:46:46 PM application.ApplicationWindow <init>
+INFO: launched
+Dec 05, 2023 10:46:49 PM application.actions.AbstractSystemAction actionPerformed
+INFO: ??
+Dec 05, 2023 10:47:00 PM application.views.NavigationWindow stageChanged
+INFO: application.editor.stages.DataFlowModelingStage@3400bcec
+Dec 05, 2023 10:47:01 PM application.views.NavigationWindow stageChanged
+INFO: application.editor.stages.PushPullSelectionStage@367717ad
+Dec 05, 2023 10:47:06 PM application.editor.stages.PushPullSelectionCellEditor stopEditing
+INFO: PULL
+Dec 05, 2023 10:47:08 PM application.editor.stages.PushPullSelectionCellEditor stopEditing
+INFO: PULL
+Dec 05, 2023 10:47:12 PM application.editor.stages.PushPullSelectionCellEditor stopEditing
+INFO: PULL
+Dec 05, 2023 10:47:16 PM application.editor.stages.PushPullSelectionCellEditor stopEditing
+INFO: PULL
+Dec 05, 2023 10:47:20 PM application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+INFO: Open popup menu
+Dec 05, 2023 10:47:21 PM application.actions.AbstractPopupAction actionPerformed
+INFO: ????????????
+Dec 05, 2023 10:47:35 PM application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+INFO: Open popup menu
+Dec 05, 2023 10:47:39 PM application.actions.AbstractPopupAction actionPerformed
+INFO: ????????????
+Dec 05, 2023 10:47:41 PM application.editor.stages.ControlFlowDelegationCellEditor startEditing
+INFO: Apply Depedents on Mediator to "siteWrapper"
+Dec 05, 2023 10:47:56 PM application.actions.AbstractEditorAction actionPerformed
+INFO: Java?????????
