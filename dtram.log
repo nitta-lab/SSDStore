@@ -1,0 +1,1226 @@
+12月 09, 2023 11:49:26 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 9:21:14 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:21:19 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@5f20802e
+12月 10, 2023 9:21:19 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@59dba58
+12月 10, 2023 9:23:45 午前 application.actions.ExitAction actionPerformed
+情報: exit
+12月 10, 2023 9:23:51 午前 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 9:24:02 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:24:07 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 9:24:08 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 9:26:34 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:26:38 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 9:26:38 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 9:27:02 午前 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 9:27:55 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:28:00 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 9:28:00 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 9:28:03 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:28:05 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 9:28:05 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 9:28:26 午前 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSHorPULL
+12月 10, 2023 9:28:38 午前 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSHorPULL
+12月 10, 2023 9:28:50 午前 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSHorPULL
+12月 10, 2023 9:35:35 午前 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 9:35:59 午前 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 9:36:34 午前 application.actions.AbstractEditorAction actionPerformed
+情報: JAX-RSプロトタイプの生成
+12月 10, 2023 9:37:25 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:37:28 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 9:37:28 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 9:41:52 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:41:52 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, longitude)
+12月 10, 2023 9:41:53 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 9:41:55 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:41:57 午前 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 9:42:35 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:42:40 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:42:40 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (presenter, longitude)
+12月 10, 2023 9:42:40 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:42:44 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 9:42:52 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:42:53 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:42:57 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:43:00 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:43:00 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (presenter, longitude)
+12月 10, 2023 9:43:00 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:43:16 午前 application.actions.AbstractViewerAction actionPerformed
+情報: 拡大
+12月 10, 2023 9:43:19 午前 application.actions.AbstractViewerAction actionPerformed
+情報: 縮小
+12月 10, 2023 9:43:19 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 9:43:37 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:43:38 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:43:39 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:43:40 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:43:40 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:43:40 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:43:40 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:43:45 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:43:45 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, presenter)
+12月 10, 2023 9:43:45 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 9:44:01 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:44:16 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:44:16 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, longitude)
+12月 10, 2023 9:44:17 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:44:19 午前 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 9:45:34 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:35 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:36 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:45:37 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:38 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:40 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:42 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:42 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, presenter)
+12月 10, 2023 9:45:43 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 9:45:44 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:45:44 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, presenter)
+12月 10, 2023 9:45:47 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:45:48 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:45:50 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 9:46:08 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:46:08 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, longitude)
+12月 10, 2023 9:46:09 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:46:10 午前 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 9:46:47 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:46:49 午前 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 9:46:57 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:47:09 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:47:13 午前 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトへ依存
+12月 10, 2023 9:47:15 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 9:47:18 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:47:21 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 9:47:21 午前 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (presenter, longitude)
+12月 10, 2023 9:47:21 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:47:23 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 9:47:37 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:48:00 午前 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 9:48:02 午前 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 9:50:20 午前 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 9:50:22 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 9:50:22 午前 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 2:03:08 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 2:43:22 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:43:22 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, longitude)
+12月 10, 2023 2:43:23 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 2:43:24 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:43:26 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 2:43:46 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:46:30 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:32 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:33 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:38 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:39 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:41 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:42 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:46:43 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:47:43 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:47:45 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:47:46 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:47:47 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:48:59 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 2:49:02 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 2:49:02 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 2:49:23 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 2:49:25 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 2:49:25 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 2:52:44 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSHorPULL
+12月 10, 2023 2:52:50 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PULL
+12月 10, 2023 2:52:55 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 2:53:24 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 2:54:43 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:54:46 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:54:46 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:54:48 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:54:48 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (b, a)
+12月 10, 2023 2:54:49 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 2:54:49 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:54:49 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (b, a)
+12月 10, 2023 2:54:54 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: "a" wasn't able to apply to CFD
+12月 10, 2023 2:54:55 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 2:54:56 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:54:58 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:54:58 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:59:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 2:59:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (setA, a)
+12月 10, 2023 2:59:27 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:59:30 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 2:59:35 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:59:36 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 2:59:40 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 2:59:41 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:06:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:06:29 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:06:30 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:06:31 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:03 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:03 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:04 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:07:05 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:05 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:07:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:10 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:24 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:24 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (setA, a)
+12月 10, 2023 3:07:24 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:07:26 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:07:42 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:44 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:45 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:46 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (setA, aaa)
+12月 10, 2023 3:07:50 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:07:51 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:54 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:54 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (c, a)
+12月 10, 2023 3:07:57 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:07:59 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:07:59 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (aaa, a)
+12月 10, 2023 3:08:03 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "setA"
+12月 10, 2023 3:08:36 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:08:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:08:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:09:24 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@567c68a9
+12月 10, 2023 3:09:27 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@19dda28e
+12月 10, 2023 3:09:36 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:09:44 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:09:49 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:09:49 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@6d2df85d
+12月 10, 2023 3:10:08 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:28 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:30 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:30 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:30 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:31 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:31 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:31 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:33 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:33 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:34 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:35 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:42 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:44 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:45 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:10:51 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:54 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:10:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:11:33 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:11:33 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (a, b)
+12月 10, 2023 3:11:34 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:11:38 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:11:39 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:12:37 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:12:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:12:52 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:12:59 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:00 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:01 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:02 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:10 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:10 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (b, c)
+12月 10, 2023 3:13:14 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "test"
+12月 10, 2023 3:13:20 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:13:20 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (test, c)
+12月 10, 2023 3:13:22 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "b"
+12月 10, 2023 3:13:26 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a542cc8
+12月 10, 2023 3:13:32 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@6d2df85d
+12月 10, 2023 3:14:01 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:14:08 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:14:10 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@17444857
+12月 10, 2023 3:14:10 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@48d164cb
+12月 10, 2023 3:14:18 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:14:19 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:14:54 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:14:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:14:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 3:14:58 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 3:15:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:15:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:15:10 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:15:19 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:16:08 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:16:42 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:17:39 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:17:41 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@db771a8
+12月 10, 2023 3:17:42 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@1c312e14
+12月 10, 2023 3:17:48 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:17:49 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:18:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:18:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 3:18:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 3:18:21 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:18:21 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:18:24 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:18:48 午後 application.actions.ExitAction actionPerformed
+情報: exit
+12月 10, 2023 3:18:52 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:19:27 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:19:31 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@508509a2
+12月 10, 2023 3:19:31 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@1f911b63
+12月 10, 2023 3:20:00 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:20:02 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:20:44 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PULL
+12月 10, 2023 3:20:57 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:20:58 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:21:06 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:21:07 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:21:28 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:21:28 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 3:21:37 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:21:41 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:21:41 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:21:47 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:21:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:21:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 3:21:52 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 3:21:58 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:23:23 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:23:23 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:23:24 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:23:28 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:23:36 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトへ依存
+12月 10, 2023 3:23:39 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Depends on Mediator was canceled because it was selected a control-flow
+12月 10, 2023 3:23:40 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:23:44 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:23:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:23:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:23:59 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:24:00 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:24:00 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:24:04 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: "presenter" wasn't able to apply to CFD
+12月 10, 2023 3:24:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:24:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:24:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:24:13 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: "presenter" wasn't able to apply to CFD
+12月 10, 2023 3:24:13 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:24:44 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:25:48 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:25:50 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@2a45a33d
+12月 10, 2023 3:25:50 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@746d615d
+12月 10, 2023 3:27:10 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:27:10 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, longitude)
+12月 10, 2023 3:27:10 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:27:11 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:27:19 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:27:22 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:27:22 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:28:05 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 3:28:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:28:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, presenter)
+12月 10, 2023 3:29:07 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:29:32 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:29:41 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@76a6c63f
+12月 10, 2023 3:29:41 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@467787d6
+12月 10, 2023 3:30:04 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:30:18 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:30:23 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@76a6c63f
+12月 10, 2023 3:30:23 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@467787d6
+12月 10, 2023 3:30:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:30:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, longitude)
+12月 10, 2023 3:30:40 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:30:41 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:30:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:30:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 3:30:56 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 3:31:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:31:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:31:10 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:32:52 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:32:53 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:33:19 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:34:26 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:35:03 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:35:08 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:11 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:12 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:13 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:16 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:35:17 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:19 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:22 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:28 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:35:28 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:35:28 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:29 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:35:30 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:35:30 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 3:35:30 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:33 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:35:34 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:34 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:35 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:47 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:35:48 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:36:07 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:36:08 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:36:16 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:36:55 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:37:18 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:37:19 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:38:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:38:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 3:38:08 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:38:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:38:10 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:38:19 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:38:40 午後 application.actions.AbstractEditorAction actionPerformed
+情報: 削除
+12月 10, 2023 3:38:40 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@76a6c63f
+12月 10, 2023 3:38:52 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:39:09 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:39:14 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@77614cb8
+12月 10, 2023 3:39:14 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@b7b7e11
+12月 10, 2023 3:39:57 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:40:00 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:40:46 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:40:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:40:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 3:40:57 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 3:41:05 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:41:26 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:41:26 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 3:41:26 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:41:28 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:41:41 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:41:46 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトへ依存
+12月 10, 2023 3:41:50 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:41:56 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:42:05 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:42:06 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:42:07 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:42:11 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:42:13 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:42:16 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:42:17 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:42:25 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:42:25 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 3:42:25 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:42:33 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトへ依存
+12月 10, 2023 3:42:38 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:42:39 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:42:41 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 3:43:21 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:43:26 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:43:41 午後 application.actions.AbstractEditorAction actionPerformed
+情報: 削除
+12月 10, 2023 3:43:41 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@77614cb8
+12月 10, 2023 3:44:05 午後 application.actions.AbstractEditorAction actionPerformed
+情報: 削除
+12月 10, 2023 3:44:05 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@77614cb8
+12月 10, 2023 3:44:57 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:45:08 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:45:12 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@1ada67ef
+12月 10, 2023 3:45:12 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@d976891
+12月 10, 2023 3:48:33 午後 application.actions.AbstractEditorAction actionPerformed
+情報: 削除
+12月 10, 2023 3:48:33 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@1ada67ef
+12月 10, 2023 3:48:36 午後 application.actions.AbstractEditorAction actionPerformed
+情報: 削除
+12月 10, 2023 3:48:36 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@1ada67ef
+12月 10, 2023 3:49:27 午後 application.actions.AbstractEditorAction actionPerformed
+情報: DAG レイアウト
+12月 10, 2023 3:49:29 午後 application.actions.AbstractEditorAction actionPerformed
+情報: ツリーレイアウト
+12月 10, 2023 3:49:31 午後 application.actions.AbstractEditorAction actionPerformed
+情報: サークルレイアウト
+12月 10, 2023 3:49:36 午後 application.actions.AbstractSystemAction actionPerformed
+情報: ナビゲーション
+12月 10, 2023 3:49:39 午後 application.actions.AbstractSystemAction actionPerformed
+情報: フローレイヤー
+12月 10, 2023 3:50:09 午後 application.actions.ExitAction actionPerformed
+情報: exit
+12月 10, 2023 3:50:16 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 3:50:36 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 3:50:41 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@4be7e9e2
+12月 10, 2023 3:50:41 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@48ea5252
+12月 10, 2023 3:55:57 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:56:01 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:56:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:56:55 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 3:56:55 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:56:57 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:57:05 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:57:11 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:57:12 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 3:57:25 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:57:25 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 3:57:27 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:58:14 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 3:59:02 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:59:02 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (presenter, longitude)
+12月 10, 2023 3:59:02 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:59:04 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:59:06 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 3:59:08 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:59:09 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:59:16 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 3:59:16 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (presenter, longitude)
+12月 10, 2023 3:59:16 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 3:59:17 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 3:59:26 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 4:00:00 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:00:01 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 4:00:07 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:00:17 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 保存
+12月 10, 2023 4:00:23 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 上書き保存
+12月 10, 2023 4:00:59 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 保存
+12月 10, 2023 4:01:03 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:02:23 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:04:01 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:05:03 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:05:06 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 4:05:14 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:05:35 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:05:43 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:06:06 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:06:09 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 4:06:15 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:15 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 4:06:15 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:06:17 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 4:06:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 4:06:27 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:06:29 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:29 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 4:06:30 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:06:32 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:32 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 4:06:35 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:06:36 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:36 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 4:06:39 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:06:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:40 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, presenter)
+12月 10, 2023 4:06:41 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:06:43 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:06:43 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 4:06:44 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:07:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:07:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLongitude, longitude)
+12月 10, 2023 4:07:12 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:07:14 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:07:14 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (mapLatitude, latitude)
+12月 10, 2023 4:07:15 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:07:16 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:07:17 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 4:07:21 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:07:22 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 4:07:39 午後 application.actions.AbstractSystemAction actionPerformed
+情報: ナビゲーション
+12月 10, 2023 4:08:00 午後 application.actions.ExitAction actionPerformed
+情報: exit
+12月 10, 2023 4:08:06 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 4:09:15 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:09:20 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:09:23 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:09:30 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@5aecdbb9
+12月 10, 2023 4:09:44 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 4:09:54 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:10:00 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@75fef77f
+12月 10, 2023 4:10:06 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:10:10 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@75fef77f
+12月 10, 2023 4:10:16 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:10:22 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@75fef77f
+12月 10, 2023 4:12:55 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 4:13:04 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:13:07 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@484680e5
+12月 10, 2023 4:13:08 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@55c15642
+12月 10, 2023 4:13:29 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 4:13:32 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 4:14:14 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:14:15 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 4:14:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:14:50 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 4:14:52 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 4:14:53 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:14:59 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:14:59 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (latitude, mapLatitude)
+12月 10, 2023 4:15:01 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 4:15:05 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:15:05 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (longitude, mapLongitude)
+12月 10, 2023 4:15:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: CFD was canceled because it was selected a control-flow
+12月 10, 2023 4:15:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:15:07 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (longitude, mapLongitude)
+12月 10, 2023 4:15:08 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 4:15:12 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:15:12 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (presenter, mapLongitude)
+12月 10, 2023 4:15:14 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:15:15 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 呼び出し順の変更
+12月 10, 2023 4:15:19 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Reset selection
+12月 10, 2023 4:15:31 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:16:22 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:18:34 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 保存
+12月 10, 2023 4:18:37 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:19:34 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:19:37 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@484680e5
+12月 10, 2023 4:19:50 午後 application.actions.ExitAction actionPerformed
+情報: exit
+12月 10, 2023 4:19:55 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 4:20:02 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:20:05 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@563c071b
+12月 10, 2023 4:20:32 午後 application.actions.AbstractSystemAction actionPerformed
+情報: ナビゲーション
+12月 10, 2023 4:20:35 午後 application.actions.AbstractSystemAction actionPerformed
+情報: フローレイヤー
+12月 10, 2023 4:20:40 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:20:44 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@563c071b
+12月 10, 2023 4:23:48 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 4:24:03 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:24:06 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@48015df3
+12月 10, 2023 4:24:06 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@1fbd8e29
+12月 10, 2023 4:24:11 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 4:24:23 午後 application.actions.ExitAction actionPerformed
+情報: exit
+12月 10, 2023 4:24:26 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 4:24:31 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 4:24:34 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@3592dbe6
+12月 10, 2023 4:24:34 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@5a7582c1
+12月 10, 2023 4:24:41 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 4:24:46 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PUSH
+12月 10, 2023 4:24:55 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 4:24:56 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 4:25:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:25:06 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (updateGPS, latitude)
+12月 10, 2023 4:25:08 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 4:25:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:25:11 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (longitude, mapLongitude)
+12月 10, 2023 4:25:12 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 4:25:14 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 4:25:14 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (latitude, mapLatitude)
+12月 10, 2023 4:25:15 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply CFD to "presenter"
+12月 10, 2023 4:25:25 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:26:14 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:26:43 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:27:22 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:30:54 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:32:16 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:32:57 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 4:33:23 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
+12月 10, 2023 7:41:49 午後 application.ApplicationWindow <init>
+情報: launched
+12月 10, 2023 7:41:55 午後 application.actions.AbstractSystemAction actionPerformed
+情報: 開く
+12月 10, 2023 7:42:00 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.DataFlowModelingStage@3fc0157e
+12月 10, 2023 7:42:00 午後 application.views.NavigationWindow stageChanged
+情報: application.editor.stages.PushPullSelectionStage@60ebbe5b
+12月 10, 2023 7:48:12 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PULL
+12月 10, 2023 7:48:17 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PULL
+12月 10, 2023 7:48:20 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PULL
+12月 10, 2023 7:48:22 午後 application.editor.stages.PushPullSelectionCellEditor stopEditing
+情報: PULL
+12月 10, 2023 7:49:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 7:49:09 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (itemsByPrice, siteA)
+12月 10, 2023 7:49:11 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 7:49:13 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトの導入
+12月 10, 2023 7:49:33 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Double clicked
+12月 10, 2023 7:49:33 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Selecting Control-Flow (src, dst) = (itemsByCapacity, siteA)
+12月 10, 2023 7:49:34 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 7:49:41 午後 application.editor.stages.ControlFlowDelegationStage$2 mouseReleased
+情報: Open popup menu
+12月 10, 2023 7:49:43 午後 application.actions.AbstractPopupAction actionPerformed
+情報: 仲介者オブジェクトへ依存
+12月 10, 2023 7:49:44 午後 application.editor.stages.ControlFlowDelegationCellEditor startEditing
+情報: Apply Depedents on Mediator to "siteWrapper"
+12月 10, 2023 7:50:17 午後 application.actions.AbstractEditorAction actionPerformed
+情報: Javaプロトタイプの生成
