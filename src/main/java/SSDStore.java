@@ -4,6 +4,7 @@ public class SSDStore {
 	private Price price;
 	private Capacity capacity;
 	private SiteA siteA;
+	private SiteB siteB;
 	private SiteWrapper siteWrapper;
 	private ItemsByCapacity itemsByCapacity;
 	private ItemsByPrice itemsByPrice;
@@ -11,7 +12,8 @@ public class SSDStore {
 		this.price = new Price();
 		this.capacity = new Capacity();
 		this.siteA = new SiteA();
-		this.siteWrapper = new SiteWrapper(siteA);
+        this.siteB = new SiteB();
+		this.siteWrapper = new SiteWrapper(siteA, siteB);
 		this.itemsByCapacity = new ItemsByCapacity(capacity, siteWrapper);
 		this.itemsByPrice = new ItemsByPrice(price, siteWrapper);
 	}
@@ -24,6 +26,9 @@ public class SSDStore {
 	public List<Map<String, Object>> getSiteA() {
 		return siteA.getValue();
 	}
+    public List<Map<String, Object>> getSiteB() {
+        return siteB.getValue();
+    }
 	public List<Map<String, Object>> getItemsByCapacity() {
 		return itemsByCapacity.getValue();
 	}
@@ -39,4 +44,7 @@ public class SSDStore {
 	public void addProductToSiteA(int capacity, int price) {
 		this.siteA.addProductToSiteA(capacity, price);
 	}
+    public void addProductToSiteB(int capacity, int price) {
+        this.siteB.addProductToSiteB(capacity, price);
+    }
 }
