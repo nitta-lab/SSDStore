@@ -2,15 +2,15 @@ import java.util.*;
 
 public class ItemsByCapacity {
 	private Capacity capacity;
-	private SiteA siteA;
-	public ItemsByCapacity(Capacity capacity, SiteA siteA) {
+	private SiteWrapper SiteWrapper;
+	public ItemsByCapacity(Capacity capacity, SiteWrapper SiteWrapper) {
 		this.capacity = capacity;
-		this.siteA = siteA;
+		this.SiteWrapper = SiteWrapper;
 	}
 	public List<Map<String, Object>> getValue() {
 		List<Map<String, Object>> temp_l1 = new ArrayList<>();
 		{
-			for (Map<String, Object> item: this.siteA.getValue()) {
+			for (Map<String, Object> item: this.SiteWrapper.getSiteAValue()) {
 				if ((Integer) item.get("capacity") >= this.capacity.getValue()) {
 					temp_l1.add(item);
 				}
