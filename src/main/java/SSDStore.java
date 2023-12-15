@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.List;
+import java.util.Map;
 
 public class SSDStore {
 	private Capacity capacity;
@@ -6,12 +7,14 @@ public class SSDStore {
 	private ItemsByCapacity itemsByCapacity;
 	private Price price;
 	private ItemsByPrice itemsByPrice;
+	private SiteWrapper siteWrapper;
 	public SSDStore() {
 		this.capacity = new Capacity();
 		this.siteA = new SiteA();
-		this.itemsByCapacity = new ItemsByCapacity(capacity, siteA);
+		this.siteWrapper = new SiteWrapper(siteA);
+		this.itemsByCapacity = new ItemsByCapacity(capacity, siteWrapper);
 		this.price = new Price();
-		this.itemsByPrice = new ItemsByPrice(price, siteA);
+		this.itemsByPrice = new ItemsByPrice(price, siteWrapper);
 	}
 	public int getCapacity() {
 		return capacity.getValue();
