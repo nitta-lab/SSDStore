@@ -1,4 +1,6 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
 
 public class ItemsByCapacity {
 	private Capacity capacity;
@@ -10,7 +12,7 @@ public class ItemsByCapacity {
 	public List<Map<String, Object>> getValue() {
 		List<Map<String, Object>> temp_l1 = new ArrayList<>();
 		{
-			for (Map<String, Object> item: this.siteWrapper.getSiteAValue()) {
+			for (Map<String, Object> item: this.siteWrapper.getSiteValue()) {
 				if ((Integer) item.get("capacity") >= this.capacity.getValue()) {
 					temp_l1.add(item);
 				}
